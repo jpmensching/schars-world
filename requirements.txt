@@ -5,7 +5,6 @@ dj-static==0.0.6
 django-toolbelt==0.0.1
 gunicorn==19.1.1
 psycopg2==2.4.5
-python-debian==0.1.21ubuntu1
 static3==0.5.1
 ufw==0.31.1-1
 virtualenv==1.11.6
