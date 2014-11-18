@@ -1,0 +1,20 @@
+Django==1.7.1
+GnuPGInterface==0.3.2
+apt-xapian-index==0.44
+argparse==1.2.1
+chardet==2.0.1
+command-not-found==0.2.44
+## FIXME: could not find svn URL in dependency_links for this package:
+distribute==0.6.24dev-r0
+dj-database-url==0.3.0
+dj-static==0.0.6
+django-toolbelt==0.0.1
+gunicorn==19.1.1
+language-selector==0.1
+psycopg2==2.4.5
+python-apt==0.8.3ubuntu7
+python-debian==0.1.21ubuntu1
+static3==0.5.1
+ufw==0.31.1-1
+virtualenv==1.11.6
+wsgiref==0.1.2
